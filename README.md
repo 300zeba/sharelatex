@@ -30,7 +30,7 @@ This repository does not contain any code. It acts a wrapper and toolkit for man
 
 The different services are:
 
-### [web](https://github.com/sharelatex/web-sharelatex) [![Build Status](https://travis-ci.org/sharelatex/web-sharelatex.svg?branch=master)](https://travis-ci.org/sharelatex/web-sharelatex)
+### [web](https://github.com/300zeba/web-sharelatex) [![Build Status](https://travis-ci.org/sharelatex/web-sharelatex.svg?branch=master)](https://travis-ci.org/sharelatex/web-sharelatex)
 
 The front facing web server that serves all the HTML pages, CSS and JavaScript
 to the client. Also contains a lot of logic around creating and editing
